@@ -1,0 +1,21 @@
+[submodule "scrapers/gosom"]
+	path = scrapers/gosom
+	url = ../../gosom/google-maps-scraper.git
+[submodule "scrapers/omkarcloud"]
+	path = scrapers/omkarcloud
+	url = ../../omkarcloud/google-maps-scraper.git
+[submodule "scrapers/luminati"]
+	path = scrapers/luminati
+	url = ../../luminati-io/Google-Maps-Scraper.git
+[submodule "scrapers/reviews-scraper-pro"]
+	path = scrapers/reviews-scraper-pro
+	url = ../../georgekhananaev/google-reviews-scraper-pro.git
+[submodule "scrapers/conor-api"]
+	path = scrapers/conor-api
+	url = ../../conor-is-my-name/google-maps-scraper.git
+[submodule "scrapers/hasdata"]
+	path = scrapers/hasdata
+	url = ../../HasData/google-maps-scraper.git
+[submodule "scrapers/zubdata-gui"]
+	path = scrapers/zubdata-gui
+	url = ../../Zubdata/Google-Maps-Scraper.git
